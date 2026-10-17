@@ -1,4 +1,4 @@
-# 🐾 PetAgenda
+﻿# 🐾 PetAgenda
 
 Aplicativo acadêmico em Flutter e Dart para organizar pets e seus cuidados, com armazenamento local em SQLite e visual verde e roxo.
 
@@ -75,4 +75,5 @@ O banco `petagenda.db` fica no armazenamento local do aplicativo. Não há login
 - [Roteiro para apresentação](docs/APRESENTACAO.md)
 - [Publicação no GitHub](docs/GITHUB.md)
 
-Projeto preparado para a apresentação acadêmica de Giovana. Complete nome, turma, disciplina e participantes conforme a autoria e as contribuições reais antes da entrega.
+Projeto preparado para a apresentação acadêmica de Giovanna Vitória Bonfim de Freitas Gomes. Complete nome, turma, disciplina e participantes conforme a autoria e as contribuições reais antes da entrega.
+
